@@ -1,1 +1,1 @@
-An assignment of web development focusing on Html 5. 
+An assignment on web development focusing on Html 5. 
